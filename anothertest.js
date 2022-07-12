@@ -48,7 +48,7 @@ if(mydata==undefined){
 console.log(mydata);
 alert(JSON.stringify(mydata));
 }
-myFun()
+//myFun()
 alert("you have come to the end of this program");
 
 function userfunction(user){
